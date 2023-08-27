@@ -1,2 +1,2 @@
-# ios-button
-![Screenshot](screenshot.gif)
+# ios-checkbox
+![Screenshot](screenshot_1.gif)
